@@ -1,7 +1,7 @@
 # Hi, my name is Abel
 I currently study at the University of Miskolc
 
-I have a lost of curosity in me, this lead me to try a lot of different things.
+I have lot of curosity in me, this lead me to try a lot of different things.
 
 Things I have done:
   - C#:
