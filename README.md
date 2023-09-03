@@ -20,8 +20,8 @@ Things I have done:
       * [Basic text library thingy](https://github.com/PogiAbel/pasaret_predikaciok)
       * [Ppt launcher](https://github.com/PogiAbel/ppt_show)
    
-Things i have touched:
-  - Apis
+Things I have touched:
+  - APIs
   - Scripting(cmd,powershell,linux shell)
   - C(sdl2,threading)
   - Java(basics)
@@ -29,4 +29,4 @@ Things i have touched:
 
 Hobby musician
 
-email: <pogonyiabel@gmail.com>
+[Linkedin](https://www.linkedin.com/in/ábel-pogonyi-3b14b0242/)
