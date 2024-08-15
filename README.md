@@ -10,9 +10,10 @@ Things I have done:
       * Asp.net core webapp
   - Python:
       * [Midi player](https://github.com/PogiAbel/CHORD2.0)
-      * [Edgye detection](https://github.com/PogiAbel/Algoritmus/tree/main/feleves_feladat/python)
+      * [Edge detection](https://github.com/PogiAbel/Algoritmus/tree/main/feleves_feladat/python)
       * Web scraping
       * Photo to text detection
+      * [XML converter](https://github.com/PogiAbel/MxlToJianpu)
   - Web/Javascript:
       * [Image concatenation](https://github.com/PogiAbel/miui_wallpaper_gen)
       * Basic website things(js,css,bootstrap,etc)
