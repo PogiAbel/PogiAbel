@@ -1,5 +1,5 @@
 # Hi, my name is Abel
-I currently study at the University of Miskolc
+I finished my studies at the University of Miskolc. So now I gave a Bsc of Software Information Technology :)
 
 I have lot of curosity in me, this lead me to try a lot of different things.
 
@@ -27,6 +27,7 @@ Things I have touched:
   - C(sdl2,threading)
   - Java(basics)
   - Sql, databases (tables, views, query, methods)
+  - Unity game programming
 
 Hobby musician
 
